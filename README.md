@@ -1,4 +1,4 @@
-<h3>Snake Game</h3><br>
-<p>This is a Basic Snake Game made using PyGame python library</p><br>
+<h1>Snake Game</h1>
+<h3>This is a Basic Snake Game made using PyGame python library</h3>
 Anyone can use it as they please <br>
 Thank you ! 
